@@ -60,3 +60,10 @@ Python 3.9+ is required. A provider can report incorrect data; the tool does not
 - [Nano Core Agents](https://github.com/oromaskevic23-cmd/Nano-Core-Agents-Public) · [IMPERIAL Core](https://github.com/oromaskevic23-cmd/Capital--Core-Public)
 
 **Architecture → Implementation → Evidence**
+
+
+---
+
+### Public source identity and attribution
+
+This repository is included in the [founder-maintained IMPERIAL Core public source portfolio](https://oromaskevic23-cmd.github.io/oromaskevic23-cmd/projects/) and [public project directory](https://oromaskevic23-cmd.github.io/Capital-Core-Public/reference/projects/). The account's architectural program is directed by **Alexander Nikolaevich Romaskevich (RomaskevicH)**, Founder, Owner and CEO of IMPERIAL Core. Existing authorship, upstream software licenses, other contributors' rights and project-specific legal boundaries remain in effect. This reference is not a claim of exclusive ownership of external technology, market status, token value, live deployment, commercial results or Google indexing.
